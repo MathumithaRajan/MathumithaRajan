@@ -25,6 +25,6 @@ I design and verify digital hardware — mostly in **SystemVerilog** and **Veril
 
 ## 📫 Reach me
 
-[LinkedIn](https://www.linkedin.com/in/mathumitharajan/) · [Email](mailto:mrajan@pdx.edu) or [Email](mailto:mathumitharajan.adm@pdx.edu) · **Resume** *([add link](https://github.com/MathumithaRajan/MathumithaRajan/blob/main/Mathum)*
+[LinkedIn](https://www.linkedin.com/in/mathumitharajan/) · [Email](mailto:mrajan@pdx.edu) or [Email](mailto:mathumitharajan.adm@pdx.edu) · **Resume** *([add link](https://github.com/MathumithaRajan/MathumithaRajan/blob/main/MathumithaR_Resume.pdf))*
 
 
